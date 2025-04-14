@@ -3,23 +3,15 @@
 layout: home
 
 hero:
-  name: "tp2-appweb-doc"
-  text: "tp2-appweb sur un rpg de Star Wars"
+  name: "tp2-appweb-doc sur un rpg de Star Wars"
+  text: ""
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Revue de code de Arthur
+      link: /revue_arthur
+    - theme: brand
+      text: Revue de code de Laurent
+      link: /revue_laurent
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
 

@@ -14,10 +14,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Liste des revues de codes',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Revue de Arthur', link: '/revue_arthur' },
+          { text: 'Revue de Laurent', link: '/revue_laurent' }
         ]
       }
     ],
