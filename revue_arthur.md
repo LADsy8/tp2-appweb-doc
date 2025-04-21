@@ -33,3 +33,8 @@
 ---
 
 > 💡 **Note** : Nous n'avons pas beaucoup travailler sur ce travail cette semaine en raison des autres travaux à remettre. La semaine prochaine, le travail comportera plus de travail à noter. 
+
+
+---------------------------------------------------------------------------------------------------
+
+
