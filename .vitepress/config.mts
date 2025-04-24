@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "tp2-appweb-doc",
   description: "tp2-appweb sur un rpg de Star Wars",
-  base: '/tp2-appweb-docs/',
+  base: '/tp2-appweb-doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
