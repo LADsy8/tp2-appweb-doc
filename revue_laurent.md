@@ -16,6 +16,10 @@
    - [Le code révisé](#le-code-révisé)
    - [Tests du code](#tests-du-code)
    - [Autres considérations (partie 2)](#autres-considérations-partie-2)
+   - [semaine 3](#semaine-3)
+   - [Le code révisé (semaine 3)](#le-code-révisé-semaine-3)
+   - [Tests du code (semaine 3)](#tests-du-code)
+   - [Commentaires finaux](#commentaires-finaux)
 
 ---
 
@@ -69,5 +73,29 @@ Voilà la fin de ma revue de code.
 - S'assurer que les validations/messages d'erreur utilisent Bootstrap au lieu de la fonctionnalité Javascript de base.
 
 Donc c'est tout pour cette fois-ci!
+
+-Laurent
+
+
+
+# Revue de code Semaine 3 (dimanche 27 avril)
+
+### Le code révisé (semaine 3)
+- Le projet étant finit, c'était intéressant de pousser un projet Vue/Typescript jusqu'à sa fin. Je trouve que ça n'a pas été facile, vu que c'est très modulaire, c'est facile de perdre les bouts, savoir quoi est utilisé à quels endroits lorsque cela était en rapport à un système.
+- On a eu quelques conflits des fois sur comment faire un bout, cela s'est résolu quelques fois par communication (surtout durant les cours), sinon c'était juste comprendre l'intention, et trouver une manière pour le glisser dans ce qui a été créé.
+
+### Tests du code (semaine 3)
+- Tester le programme en soi allait bien, Arthur a fait une bonne job avec ses bouts pour que le tout fonctionne sans que j'aille faire des corrections. Les troubles qu'il y avait étaient souvents mineurs, et qui n'impactait pas trop la fonctionnalité du programme en soi.
+- Arthur a fait une bonne couverture de tests, en faisant des tests qui n'étaient pas complexe à lire. J'ai beaucoup de misère en JS/Vue, alors je n'ai pas pu faire une aussi bonne couverture que lui...
+- La touche d'ajouter des .gifs animés en arrière-plan est rigolo, quoi que déconcentrant lorsque je regarde le code pendant que ça bouge dans le coin de l'oeil... Ça reste un net positif à l'expérience.
+
+
+### Commentaires finaux
+- Arthur a définitivement fait plus de travail que moi, même si le nombre de récits que nous deux avons créés est similaire, il mérite le crédit pour ça (et la réparation de vaisseau qui vient avec).
+- J'ai l'impression que le découpage aurait pu être mieux conçu au final, mais étant le premier TP en Vue de cette envergure, c'est très simple de comprendre les troubles qui peuvent arriver et les voirs d'avance pour la prochaine fois.
+- J'ai l'impression que c'est très facile d'avoir oublié quelque chose, changer des blocs de code de place et qu'une fonction n'est pas appelée, etc.
+- Je comprend pourquoi que des collègues spammaient les clics de souris dans les autres cours, ils essayaient ce jeu-là à spammer le bouton d'attaque.
+- J'ai vraiment voulu implémenter un "base hp" pour que l'affichage et réparation soient plus intéressants. (Le 5% en réparation donne plus que 5 hp si le joueur a plus que 100 hp), et j'aime le résultat que ça donne. Le jeu est faisable avec un taux de succès potable en ne changeant rien d'autres dans les chiffres.
+
 
 -Laurent
