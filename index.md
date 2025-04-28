@@ -11,9 +11,6 @@ hero:
       text: Revue de code de Arthur
       link: /revue_arthur
     - theme: brand
-      text: Revue de code de Arthur 2
-      link: /revue-arthur-2
-    - theme: brand
       text: Revue de code de Laurent
       link: /revue_laurent
 
